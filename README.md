@@ -1,4 +1,3 @@
 ﻿# atividades
 
-cada branch deste repositorio é uma atividade feita por mim
-
+cada pasta neste repositorio é uma atividade feita por mim durante meus estudos na faculdade Wyden
